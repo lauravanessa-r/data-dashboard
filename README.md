@@ -73,7 +73,7 @@ Then open http://localhost:8000. You can also use the **Live Server** extension 
 ## Author
 
 **Laura Reinoso** — Statistician · Data Annotator · Front-end Developer
-[LinkedIn](www.linkedin.com/in/laura-reinoso-a04321371) · [GitHub](https://github.com/lauravanessa-r)
+[LinkedIn](https://www.linkedin.com/in/laura-reinoso-a04321371) · [GitHub](https://github.com/lauravanessa-r)
 
 ## License
 
